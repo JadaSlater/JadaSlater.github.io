@@ -1,7 +1,7 @@
 ## About My Mentor
 
-My mentor, Dr. Chris Crawford from the University of Alabama, is a researcher who’s work focuses on Brain-Computer Interfaces, as well as Human-Robot Interaction. His work aims to leverage novel neurophysiological sensing technologies, software engineering, and robotics to create tools and applications that support the exploration of Brain-Robot Interaction.
+My mentor, Dr. Roshan Paudel is a professor at Morgan State University. He shows research interests in Bioinformatics, Next Generation
+Sequencing Analysis, Computation Biology etc. The main reserach interest is is developing stochastic models of Calcium and other ion channels in cardian mycocytes. He is also involved in educational research in increasing undergraduate retntion rate in computer science.
 
-[Mentor's Website](https://htilua.org/about-the-pi)
 
-
+My mentors website: https://www.morgan.edu/computer-science/faculty-and-staff/roshan-paudel
