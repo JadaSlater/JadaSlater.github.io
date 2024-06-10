@@ -1,5 +1,3 @@
 ## About Me
-Currently, I am a Senior at Morgan State University, located in Baltimore, Maryland. I am pursuing a Bachelor’s degree in Computer Science. My expected graduation date is in 2025.
-
-[Linkedin Profile](https://www.linkedin.com/in/michael-adeleke-4a1228217/)
-
+I am a rising Senior Biology major at Morgan State University, interested in Bioinformatics and Biotech. I am currently expected to graduate in 2025.
+[Linkedin Profile](https://www.linkedin.com/in/jada-slater-15536a230?original_referer=https%3A%2F%2Fwww.google.com%2F)
