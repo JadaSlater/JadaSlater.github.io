@@ -2,14 +2,10 @@
 
 mBot Neo
 
-Problem: There is a lack of reasearch focusing on exploring ways to build educational software that integrates physical robots and physiological sensors. 
+Problem: There isn't a machine learning model that accurately detects the Genetic Biomarkers and Early Prediction of Lung Cancer. 
 
-Approach: During this project, I will assist a team in designing a system that accomplishes the following:
+Approach: During this project, I will assist a team in designing a system that accomplishes the following: 
 
-  - Capture physiological data such as EEG and EMG from the human body.
-  - Process raw sensor data and classify events such as gestures (e.g., arm movements) and emotional states (e.g., attention levels)
-  - Map output from physiological sensors to a physical robot. 
-
-Expected Outcome: The project is expected to result in a conference poster presentation at the end of the DREU program. The poster will focus on the system's technical architecture.
+- Develop a Machine Learning Model to detect Genetic Biomarkers and early prediction of Lung Cancer from Transcriptomic Datasets.
 
 
