@@ -1,6 +1,6 @@
 ## About My Project
 
-mBot Neo
+
 
 Problem: There isn't a machine learning model that accurately detects the Genetic Biomarkers and Early Prediction of Lung Cancer from Transcriptomic Datasets, that take into count both types of Lung Cancer (SCLC and NSCLC). 
 
